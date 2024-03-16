@@ -1,7 +1,7 @@
-# Celestial Symphony Series
+# Celestial Symphony 
 
 ## Overview
-The "Celestial Symphony" series is an exploration into the beauty and vastness of the cosmos through the medium of generative art. Each piece in the series is a visual representation of cosmic phenomena, inspired by the intricate dance of celestial bodies. The interplay of color, form, and symmetry echoes the poetic rhythm of the universe.
+The "Celestial Symphony" is part of a series that explores the beauty and vastness of the cosmos through the medium of generative art. Each piece in the series is a visual representation of cosmic phenomena, inspired by the intricate dance of celestial bodies. The interplay of color, form, and symmetry echoes the poetic rhythm of the universe.
 
 ## Description
 "Celestial Symphony" immerses the viewer in a tapestry of galactic rhythms, showcasing a pattern of fractal formations that resemble cosmic blooms against the dark canvas of space. This series captures the delicate balance between order and chaos, an interconnected symphony of color and shape that narrates the timeless tales of the cosmos.
