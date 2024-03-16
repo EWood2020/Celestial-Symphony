@@ -1,7 +1,5 @@
 # Celestial Symphony Series
 
-![Celestial Symphony](/path/to/CelestialSymphony.png)
-
 ## Overview
 The "Celestial Symphony" series is an exploration into the beauty and vastness of the cosmos through the medium of generative art. Each piece in the series is a visual representation of cosmic phenomena, inspired by the intricate dance of celestial bodies. The interplay of color, form, and symmetry echoes the poetic rhythm of the universe.
 
@@ -18,9 +16,9 @@ To view or use the scripts, simply clone this repository and open the HTML files
 Contributions are welcome. If you have ideas for new patterns or enhancements to existing scripts, feel free to fork this repository and submit a pull request.
 
 ### License
-This project is open-source and available under the [MIT License](LICENSE).
+This project is open-source and available
 
 ---
 
 ## Contact
-For inquiries about the series or potential collaborations, please reach out via [GitHub issues](/issues) or directly to [your-email@example.com](mailto:your-email@example.com).
+For inquiries about the series or potential collaborations, please reach out via [GitHub issues](/issues) or directly to [enriquewori@gmail.com](mailto:enriquewori@gmail.com).
