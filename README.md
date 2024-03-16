@@ -21,4 +21,4 @@ This project is open-source and available
 ---
 
 ## Contact
-For inquiries about the series or potential collaborations, please reach out via [GitHub issues](/issues) or directly to [enriquewori@gmail.com](mailto:enriquewori@gmail.com).
+For inquiries about the series or potential collaborations, please reach out via [enriquewori@gmail.com](mailto:enriquewori@gmail.com).
